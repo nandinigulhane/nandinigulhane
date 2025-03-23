@@ -2,7 +2,7 @@
   <b>Nandini Gulhane</b>
 </h1>
 
-Heya! I'm Nandini Gulhane, a student currently living in Pune, India. 
+Heya! 👋 I'm **Nandini Gulhane**, a passionate **student** and an aspiring **software developer** based in **Pune, India**. Currently, I'm pursuing my degree at **Vishwakarma Institute of Technology, Pune**, where I’m diving deep into the world of **coding, technology, and innovation**.
 
 <br>
 
